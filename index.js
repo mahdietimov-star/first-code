@@ -14,6 +14,10 @@
 // console. log(a)
 
 // let a1 = 45;
+// let a1 = 45;
+// let a1 = 45;
+// let a1 = 45;
+// let a1 = 45;
 // let b2 = 190;
 // console. log(a1+b2)
 
